@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+.env
+venv/
+env/
+shmp/
+
+# IDEs
+.vscode/
+.idea/
+
+# Bytecode and logs
+*.log
+*.sqlite3
+
+# Docker
+*.pid
+*.tar
+*.gz
+*.bak
